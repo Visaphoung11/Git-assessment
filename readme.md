@@ -8,19 +8,19 @@ This project is a hand on assessment to hand on pratice
 
 
 
-## Iniailize git repository
+## 1.Iniailize git repository
  Create new folder and and initilize using git add 
-## Working with branches
+## 2.Working with branches
 Create new branch and add hello 
 
-## Merging branches 
+## 3.Merging branches 
 ```
 Merging feature hello
 Delete fearture hello
 ```
 
 
-## Merge Conflict Resolotion
+## 4.Merge Conflict Resolotion
 
 
 
